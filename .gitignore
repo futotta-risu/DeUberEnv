@@ -1,0 +1,6 @@
+
+*.txt
+DeUberEnvs.egg-info/PKG-INFO
+DeUberEnv/envs/__pycache__/DUej3Map.cpython-36.pyc
+DeUberEnv/__pycache__/__init__.cpython-36.pyc
+DeUberEnv/envs/__pycache__/__init__.cpython-36.pyc
